@@ -1,0 +1,6 @@
+
+C:\Users\yuki\Documents\wappcore\prod-akinto-top104\202008\catalina.out-20200826
+INFO  2020-08-25 17:14:07.341: [http-nio-8080-exec-6] database/update/request (update_member_2) memberDB [name="id", value="14493", Operator="="]
+
+C:\Users\yuki\Documents\wappcore\prod-akinto-top105\202008\catalina.out-20200827
+INFO  2020-08-26 14:14:24.846: [http-nio-8080-exec-283] database/update/request (update_member_2) memberDB [name="id", value="15993", Operator="="]

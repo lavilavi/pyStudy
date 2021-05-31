@@ -1,0 +1,10 @@
+
+C:\Users\yuki\Documents\wappcore\prod-akinto-top104\202008\catalina.out-20200826
+INFO  2020-08-25 17:14:07.381: [http-nio-8080-exec-6] subject: 【KINTO】お客様情報の変更受付完了のお知らせ,from: KINTO <notify@kinto-jp.com>,to: [harihiro0410@gmail.com],message: 針原様
+
+
+C:\Users\yuki\Documents\wappcore\prod-akinto-top105\202008\catalina.out-20200827
+INFO  2020-08-26 14:14:24.901: [http-nio-8080-exec-283] subject: 属性変更受付連絡,from: KINTO <notify@kinto-jp.com>,to: [op_desk@kinto-jp.com],message: 　・変更日時　　　　　　　　　20200826　14:14
+
+INFO  2020-08-26 14:14:26.599: [http-nio-8080-exec-283] subject: 【KINTO】お客様情報の変更受付完了のお知らせ,from: KINTO <notify@kinto-jp.com>,to: [gundam52611012@gmail.com],message: 矢島様
+

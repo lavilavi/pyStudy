@@ -1,0 +1,7 @@
+* {{bug|14052}} Add fields filtering in the filter: 2
+* {{bug|14055}} Time distribution interaction: 3
+* {{bug|14129}} Harmonize support of the fields with dots received from Logstorage receiver: 1
+* {{bug|14031}} Create the hasAlertId operator: 3
+* {{bug|14169}} Time distribution widget doesn't say 集計中 when refreshing: 0.5
+* {{bug|14053}} Change JDK to 11.0.3 (adopt): 2
+* {{bug|14126}} Make built-in less changable: 2

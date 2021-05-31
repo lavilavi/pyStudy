@@ -1,0 +1,45 @@
+Product Code
+Product Type
+Vehicle Code
+Plan Code
+Monthly Rental Fee
+RVratio
+
+InsuranceVul-1
+InsuranceVul-1_Commission
+InsuranceVul-1_Commission_2
+InsuranceVul-2
+InsuranceVul-2_Commission
+InsuranceVul-3
+InsuranceVul-3_Commission
+TIBInsuranceVul4
+InsuranceVul-4_Commission
+TIBInsuranceVul-5
+InsuranceVul-5_Commission
+Dlr_InsuranceCompulsory1stYear
+RGS_InsuranceCompulsory2
+RGS_InsuranceCompulsory3
+RGS_InsuranceCompulsory4
+RGS_InsuranceCompulsory5
+RoadSideService
+MaintenanceExpenses1
+MaintenanceExpenses2
+MaintenanceExpenses3
+MaintenanceExpenses4
+MaintenanceExpenses5
+Dealerserviceregistrationfee1styear
+DealerStdPackage
+%DealerComission
+DealerCommAmt
+DealerIncentiveAmt
+DealerIncentiveExtraAmt
+ContractHandlingFee
+GPS/Month
+DealerServiceChargeRegFee1stYear
+RGSAnnualTax2ndYear
+RGSServiceChargeAmt2ndYear
+RGSAnnualTax3rdYear
+RGSServiceChargeAmt3rdYear
+RGSAnnualTax4thYear
+RGSServiceChargeAmt4thYear
+Is Active
