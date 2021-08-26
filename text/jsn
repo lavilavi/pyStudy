@@ -1,125 +1,205 @@
-{
-    "httpStatus": "OK",
-    "data": [
-        {
-            "vehicleId": "9ac95347-0739-45cd-998d-ff560ea207db",
-            "vehicleCode": "Dealer01-Branch01-002",
-            "makeCode": "002",
-            "makeName": "002",
-            "modelCode": "002",
-            "modelNameInThai": "002",
-            "modelNameInEnglish": "002",
-            "modelDescriptionInThai": "002",
-            "modelDescriptionInEnglish": "002",
-            "trimLevelCode": "002",
-            "trimLevelName": "002",
-            "exteriorColorCode": "002",
-            "exteriorColorName": "002",
-            "transmissionCode": "A",
-            "transmissionNameInThai": "อัตโนมัติ",
-            "transmissionNameInEnglish": "Automatic",
-            "mileage": "1",
-            "unitOfMileageInThai": "กม.",
-            "unitOfMileageInEnglish": "km",
-            "registrationProvinceInThai": "กรุงเทพมหานคร",
-            "registrationProvinceInEnglish": "Bangkok",
-            "registrationPlateNumber": "12",
-            "lowestMonthlySubscriptionFee": 0.0000,
-            "carPrice": 1.0000,
-            "firstExteriorImage": "https://lab2-gk-lease-pubdata.kinto-mobility.jp/vehicle/detail/9ac95347-0739-45cd-998d-ff560ea207db/288f8903-6171-41a6-b9e3-d0727521d8d2.png",
-            "dealerCode": "Dealer01",
-            "branchCode": "Branch01",
-            "isOccupied": true,
-            "fullWidth": null,
-            "ridingCapacity": 222,
-            "indoorVolume": null,
-            "fuelEconomy": null,
-            "slideDoor": null,
-            "drive": null,
-            "TLTColorCode": "0001",
-            "TLTColorName": "ขาว",
-            "TLTCarTypeCode": "140",
-            "TLTCarTypeName": "นั่งสองตอนท้ายบรรทุก"
-        },
-        {
-            "vehicleId": "e63f99d1-4bff-4c45-b38b-16a479005ce8",
-            "vehicleCode": "Dealer01-Branch01-Vehicle02",
-            "makeCode": "001",
-            "makeName": "TOYOTA",
-            "modelCode": "YARIS ATIV",
-            "modelNameInThai": "YARIS ATIV",
-            "modelNameInEnglish": "YARIS ATIV",
-            "modelDescriptionInThai": "2018",
-            "modelDescriptionInEnglish": "2018",
-            "trimLevelCode": "ATIV18S+",
-            "trimLevelName": "S+",
-            "exteriorColorCode": "0011_MetStreamBlkRf",
-            "exteriorColorName": "Metal Stream Metallic / Black Roof",
-            "transmissionCode": "A",
-            "transmissionNameInThai": "อัตโนมัติ",
-            "transmissionNameInEnglish": "Automatic",
-            "mileage": "22",
-            "unitOfMileageInThai": "กม.",
-            "unitOfMileageInEnglish": "km",
-            "registrationProvinceInThai": "กรุงเทพมหานคร",
-            "registrationProvinceInEnglish": "Bangkok",
-            "registrationPlateNumber": "22",
-            "lowestMonthlySubscriptionFee": 0.0000,
-            "carPrice": 2222222.0000,
-            "firstExteriorImage": "https://lab2-gk-lease-pubdata.kinto-mobility.jp/vehicle/detail/e63f99d1-4bff-4c45-b38b-16a479005ce8/afd7d09e-2003-40f7-bd1b-02dda9258940.png",
-            "dealerCode": "Dealer01",
-            "branchCode": "Branch01",
-            "isOccupied": true,
-            "fullWidth": null,
-            "ridingCapacity": null,
-            "indoorVolume": null,
-            "fuelEconomy": null,
-            "slideDoor": false,
-            "drive": "2WD",
-            "TLTColorCode": "0011",
-            "TLTColorName": "เทา",
-            "TLTCarTypeCode": "125",
-            "TLTCarTypeName": "เก๋งสองตอนแวน ได้แก่ รถแวน"
-        },
-        {
-            "vehicleId": "b73ac4be-2ea4-4267-87d5-059ca950e897",
-            "vehicleCode": "0006-PS8_usedcar-SM07",
-            "makeCode": "001",
-            "makeName": "TOYOTA",
-            "modelCode": "YARIS",
-            "modelNameInThai": "YARIS",
-            "modelNameInEnglish": "YARIS",
-            "modelDescriptionInThai": "0",
-            "modelDescriptionInEnglish": "0",
-            "trimLevelCode": "YARIS18E",
-            "trimLevelName": "E",
-            "exteriorColorCode": "0001",
-            "exteriorColorName": "Super White",
-            "transmissionCode": "A",
-            "transmissionNameInThai": "อัตโนมัติ",
-            "transmissionNameInEnglish": "Automatic",
-            "mileage": "28660",
-            "unitOfMileageInThai": "กม.",
-            "unitOfMileageInEnglish": "km",
-            "registrationProvinceInThai": "กรุงเทพมหานคร",
-            "registrationProvinceInEnglish": "Bangkok",
-            "registrationPlateNumber": "1ขภ 6487",
-            "lowestMonthlySubscriptionFee": 19500.0000,
-            "carPrice": 404000.0000,
-            "firstExteriorImage": "https://lab2-gk-lease-pubdata.kinto-mobility.jp/vehicle/detail/b73ac4be-2ea4-4267-87d5-059ca950e897/e7f55e0a-1ef7-4443-b45f-0bb87699473e.png",
-            "dealerCode": "0006",
-            "branchCode": "PS8_usedcar",
-            "isOccupied": false,
-            "fullWidth": null,
-            "ridingCapacity": null,
-            "indoorVolume": null,
-            "fuelEconomy": null,
-            "slideDoor": false,
-            "drive": "2WD",
-            "TLTColorCode": "0001",
-            "TLTColorName": "ขาว",
-            "TLTCarTypeCode": "125",
-            "TLTCarTypeName": "เก๋งสองตอนแวน ได้แก่ รถแวน"
-        }
-    ]
-}
+[
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "8:30 22 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=a8c626e5-c48b-468d-85eb-4956e7034500"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 13 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=4eb2e7bc-7bc4-468b-98bb-84cfa0e26643"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 10 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=169418b6-8a42-49c2-8722-151ce5663fe8"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 10 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=5333a5b3-c746-443e-af6a-739ad5689491"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=67b30f57-c36d-45ca-9285-4bd6090bdb05"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=fade9f60-3433-46db-9dfa-c0fbf3bac7a2"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=eaaf781e-2d30-4627-90d9-23f23ecbb4d7"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=ea18e979-878a-45db-8400-0cd34ce01992"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=d09f4465-cd1c-482c-9e52-8c35528aa2b4"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "白金店",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=d05653a7-212e-4fe6-aa84-1042d1c25455"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=ce6a1dfc-2c87-419a-a198-8fc7134940d8"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=cc90931c-1682-44a9-ad23-90c16533d33d"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=c7877adf-bd0f-4338-adc1-48dc70408974"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=a38aa86f-090e-4af6-8d10-b530af8cad95"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=a04597d3-706f-4fc0-b7d7-e757d3dbecc1"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=9b69c45e-b1dd-4962-956a-e28dbd34ee9a"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=993660b5-9944-4abb-89fd-92879b1b382e"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=6a44f237-ea29-4db7-9e7c-8b60c40bdad2"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "白金店",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=0598f55a-f213-4f08-8b5e-a4cb5d267fb6"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=5e024b18-a239-4c9e-9cf7-4c3ead898479"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=5aa6fc14-c926-40fb-a07c-1168676fabc9"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=550113bd-f4cd-4554-baae-6067f0c05856"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "check02",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=31ea4b80-4429-40e0-b517-2e66326888d5"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=2a12d8bf-49c5-4edf-ae29-3d1921c403b6"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=28c11089-e06a-48db-afdf-08c5e2df1f47"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "check01",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=245e0dd3-f17d-44e2-a274-26e4b8a01c73"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=20c3f47f-0306-4575-a18d-be43a920b800"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=1b4ffaf6-ab39-415a-856a-c523b94b49ae"
+    },
+    {
+        "type": "030405",
+        "param1": "KINTO SHARE",
+        "param2": "15:30 8 Jun 2021",
+        "param3": "ko_branch_4",
+        "param4": "https://share.kinto-th.com/BookingDetail.aspx?BookingId=094c1e13-7b69-42cd-b2c7-a1414d020ebb"
+    }
+]

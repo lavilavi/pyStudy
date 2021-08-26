@@ -1,8 +1,8 @@
 base = 309300
-zangyo = 30
-house = 65500
+zangyo = 20
+house = 0
 social = 15000 + 45000
-residential = 310000 / 12
+residential = 326000 / 12
 income = 15000
 tax = residential + income
 trans = 16900/3
@@ -17,7 +17,7 @@ def monthly():
 
 
 def bonus():
-    return base * 6.0
+    return base * 6
 
 
 def total():
