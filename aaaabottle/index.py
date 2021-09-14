@@ -7,7 +7,7 @@ from collections import OrderedDict
 import sqlite3
 import json
 
-TEMPLATE_PATH.append("./template")
+TEMPLATE_PATH.append("./templates")
 app = Bottle()
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
